@@ -10,7 +10,7 @@ This project involves the analysis of GPS data to identify individual dwell time
 
 - `GPS Data.ipynb`: Jupyter Notebook containing the code for GPS data analysis. Make sure to download necessary libraries using `!pip install` within the notebook.
 - `Insight Report_Yohanes Nelsen Tjahjono.pdf`: Detailed analysis report providing insights into the GPS data analysis process and results.
-- `dwell_locations_heatmap.html`: HTML file containing a map and heatmap of dwells concentration. This can be opened in a web browser, preferably Chrome, to visualize the map containing the concentration of the data.
+- `dwell_locations_heatmap.html`: HTML file containing a map and heatmap of dwells concentration. This can be opened in a laptop / pc web browser, preferably Chrome, to visualize the map containing the concentration of the data.
 - `filtered_df.csv`: Resultant file after processing the GPS data. This file is used in the `GPS Data.ipynb` notebook for analysis. Since the data is big, `filtered_df.csv` can be used to skip the process since it takes a lot of time.
 - `Map Dwells_Final.png` and `Map Dwells_Final2.png`: Images used in the `GPS Data.ipynb` notebook as examples of the HTML output.
 
